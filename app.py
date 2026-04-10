@@ -7,8 +7,8 @@ import datetime
 import os
 
 # --- CONFIGURACIÓN DE SEGURIDAD (Cámbialo cuando quieras) ---
-USUARIO_ACCESO = "equipo"
-CLAVE_ACCESO = "scouting24"
+USUARIO_ACCESO = "mvp"
+CLAVE_ACCESO = "scouting26"
 
 # --- CONFIGURACIÓN Y ESTÉTICA ---
 st.set_page_config(page_title="MVP Scouting Lab", page_icon="⚽", layout="wide")
